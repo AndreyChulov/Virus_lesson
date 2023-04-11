@@ -1,0 +1,10 @@
+C:\Projects\SysProg_kurs\second_threads\Virus\bin\Debug\Virus.exe.config
+C:\Projects\SysProg_kurs\second_threads\Virus\bin\Debug\Virus.exe
+C:\Projects\SysProg_kurs\second_threads\Virus\bin\Debug\Virus.pdb
+C:\Projects\SysProg_kurs\second_threads\Virus\obj\Debug\Virus.csprojAssemblyReference.cache
+C:\Projects\SysProg_kurs\second_threads\Virus\obj\Debug\Virus.Properties.Resources.resources
+C:\Projects\SysProg_kurs\second_threads\Virus\obj\Debug\Virus.csproj.GenerateResource.cache
+C:\Projects\SysProg_kurs\second_threads\Virus\obj\Debug\Virus.csproj.CoreCompileInputs.cache
+C:\Projects\SysProg_kurs\second_threads\Virus\obj\Debug\Virus.exe
+C:\Projects\SysProg_kurs\second_threads\Virus\obj\Debug\Virus.pdb
+C:\Projects\SysProg_kurs\second_threads\Virus\obj\Debug\Virus.DefenderForm.resources

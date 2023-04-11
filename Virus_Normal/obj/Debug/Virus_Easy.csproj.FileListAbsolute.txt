@@ -1,0 +1,11 @@
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.csproj.AssemblyReference.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.DefenderForm.resources
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.csproj.GenerateResource.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.csproj.CoreCompileInputs.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\bin\Debug\Virus_Easy.exe.config
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\bin\Debug\Virus_Easy.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\bin\Debug\Virus_Easy.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.Properties.Resources.resources
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus\obj\Debug\Virus_Easy.pdb

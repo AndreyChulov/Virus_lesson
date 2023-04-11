@@ -1,0 +1,9 @@
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\bin\Debug\Virus_Hard.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\bin\Debug\Virus_Hard.pdb
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\obj\Debug\Virus_Hard.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\obj\Debug\Virus_Hard.DefenderForm.resources
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\obj\Debug\Virus_Hard.Properties.Resources.resources
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\obj\Debug\Virus_Hard.csproj.GenerateResource.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\obj\Debug\Virus_Hard.csproj.CoreCompileInputs.cache
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\obj\Debug\Virus_Hard.exe
+C:\Users\t.student\Documents\PV111(Teacher)\SysProg_2_threads\Virus_Hard\obj\Debug\Virus_Hard.pdb
